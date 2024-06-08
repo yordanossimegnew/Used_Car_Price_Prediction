@@ -423,7 +423,25 @@ df.sample(3)
 
 
 ### Now let's export our cleaned dataframe
-df.to_csv("C:\\Users\\yozil\\Desktop\\My projects\\used car price prediction\\used_car_price_prediction\\data\\processed\\cleaned_car_data.csv")
+df.to_csv("C:\\Users\\yozil\\Desktop\\My projects\\used car price prediction\\used_car_price_prediction\\data\\processed\\cleaned_car_data.csv", index = False)
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
+
+
+# In[ ]:
+
+
+
 
 
 # In[ ]:
